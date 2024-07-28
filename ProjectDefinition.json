@@ -34,6 +34,6 @@
   "ba_caClassificationModelTrainingId": "e7ffce9d-3927-40dc-bb84-0a1f4c12c652",
   "ba_caDataExtractionModelTrainingId": "2f0cb7d6-8a60-43d3-9b38-90f6c8fa5b6d",
   "ba_caDeployedClassificationModelTrainingId": "7f16f3bc-0217-479d-bb13-48d8cae638f7",
-  "ba_caDeployedDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b",
+  "ba_caDeployedDataExtractionModelTrainingId": "cc91e19e-d952-4950-b280-aa77d8185918",
   "ba_deploy_repo_id": "DEVOS1"
 }
