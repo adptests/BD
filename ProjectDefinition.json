@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/schema#",
+  "$id": "http://www.ibm.com/dba/solutions/solution1/BD/ProjectDefinition.json",
+  "title": "Bapco demo",
+  "ba_description": "",
+  "ba_type": "content",
+  "ba_repoPrimaryKey": "BD",
+  "ba_expectedDocTypes": 0,
+  "ba_id": "b429993f-9406-4f97-a7fd-77affce8ac2f",
+  "ba_dataDefinitions": [],
+  "ba_contentDefinitions": [
+    {
+      "$ref": "CD_UtilityBill.json",
+      "title": "Utility Bill",
+      "caDocTypeId": "a2827178-33da-403b-aaa8-b0bb3b820959"
+    },
+    {
+      "$ref": "CD_BillOfLading.json",
+      "title": "Bill of Lading",
+      "caDocTypeId": "63842cbd-c858-4a5d-955c-7825edb7da25"
+    },
+    {
+      "$ref": "CD_Invoice.json",
+      "title": "Invoice",
+      "caDocTypeId": "b65d6596-71e0-4def-92e4-fc5e04ff4e66"
+    }
+  ],
+  "ba_caDefinitions": "caDefinitions.json",
+  "ba_caProjectDescriptor": "60ecff14-97f8-4c47-95ac-7ccd91e226bc",
+  "ba_snapshotName": "v1-2024-07-28-1350",
+  "ba_versionId": "4298758a-9303-4f52-97cc-fd744f7708a8",
+  "ba_caMLModel": "MLmodel.zip",
+  "ba_versionNotes": "28th july",
+  "ba_caClassificationModelTrainingId": "7f16f3bc-0217-479d-bb13-48d8cae638f7",
+  "ba_caDataExtractionModelTrainingId": "492158e8-e486-4331-b444-d3493b5c7f8b"
+}
